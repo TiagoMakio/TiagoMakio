@@ -12,7 +12,15 @@ Here are some ideas to get you started:
 - 💬 Fique a vontade para perguntar!
 - 😄 Pronouns: Ele/Dele - His
 - ⚡ Fun fact: bem...
-<div>
-  <a href="http://github.com/TiagoMakio">
-  <img height="180cm" src"gitshub-readme-stacts.vercel.app/api?username=TiagoMakio&show_icon=true&theme=dracula&include_all_commits=truecount_private=true">
-</div>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?TiagoMakio=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?TiagoMakio=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?TiagoMakio=anuraghazra&show_icons=true" />
+</picture>
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
