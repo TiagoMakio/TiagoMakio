@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 > .
 ![dracula][dracula] 
 ## 
-[dracula]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula
+[dracula]: https://github-readme-stats.vercel.app/api?username=TiagoMakio&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula
 
 ##
 
